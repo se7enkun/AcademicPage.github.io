@@ -1,4 +1,12 @@
 # AcademicPage
-# Yukun Deng
-**Harbin Institute of Technology (Shenzhen)**  
-📧 2024311475@stu.hit.edu.cn
+
+---
+
+## 👤 Name
+**Yukun Deng**
+
+## 🎓 Institution
+Harbin Institute of Technology (Shenzhen)
+
+## 📧 Email
+2024311475@stu.hit.edu.cn
